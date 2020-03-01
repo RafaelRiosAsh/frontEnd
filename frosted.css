@@ -13,7 +13,7 @@ html{
     background: linear-gradient(-45deg, #EE7752, #E73C7E, rgb(42, 194, 214), rgb(29, 180, 143));
     background-size: 400% 400%;
     position: relative;
-    animation: change 30s ease-in-out infinite;
+    animation: change 60s ease-in-out infinite;
 }
 #blurred_signin{
     width: 45vh;
