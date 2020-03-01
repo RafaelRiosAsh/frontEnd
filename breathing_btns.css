@@ -70,7 +70,11 @@ input{
     background-color: #2b2b2b;
     transition: all ease .5s;
 }
-input:hover, input:focus{
+input:hover{
+    color: rgb(122, 122, 122);
+    background-color: #3a3a3a;
+}
+input:focus{
     color: rgb(122, 122, 122);
     background-color: #3a3a3a;
 }
